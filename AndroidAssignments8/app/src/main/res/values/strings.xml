@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">AndroidAssignments</string>
+    <string name="yahay">YAHAY!</string>
+    <string name="yahay_land" translatable="false">YAHAY LAND!</string>
+    <string name="prev" translatable="false">Prev</string>
+    <string name="next" translatable="false">Next</string>
+</resources>
