@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#F5F5F5">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🎥 Детали фильма"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#B71C1C"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Фильм: "
+        android:textSize="18sp"
+        android:textColor="#212121"
+        android:layout_marginBottom="6dp"/>
+
+    <TextView
+        android:id="@+id/textViewGenre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Жанр: "
+        android:textSize="16sp"
+        android:textColor="#424242"
+        android:layout_marginBottom="6dp"/>
+
+    <TextView
+        android:id="@+id/textViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID: "
+        android:textSize="12sp"
+        android:textColor="#9E9E9E"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Напишите рецензию и отправьте обратно:"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="#C62828"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/editTextReview"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:hint="Напишите рецензию..."
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:background="@drawable/rounded_edittext"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp"/>
+
+    <!-- Шаг 3: кнопка вызывает setResult(RESULT_OK) и finish() -->
+    <Button
+        android:id="@+id/buttonSaveReview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Сохранить и вернуть рецензию"
+        android:backgroundTint="#C62828"
+        android:layout_marginBottom="6dp"/>
+
+    <!-- Кнопка назад без результата — setResult(RESULT_CANCELED) -->
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Назад (без сохранения)"
+        android:backgroundTint="#9E9E9E"/>
+
+</LinearLayout>

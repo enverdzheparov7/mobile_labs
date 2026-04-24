@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+drawable rounded_edittext
+id buttonAdd
+id buttonBack
+id buttonGoToSecond
+id buttonOpenImdb
+id buttonSaveReview
+id checkBoxWatched
+id editTextGenre
+id editTextReview
+id editTextTitle
+id recyclerView
+id textViewGenre
+id textViewId
+id textViewLastReview
+id textViewMovieGenre
+id textViewMovieTitle
+id textViewTitle
+layout activity_main
+layout activity_second
+layout item_movie
+string app_name
