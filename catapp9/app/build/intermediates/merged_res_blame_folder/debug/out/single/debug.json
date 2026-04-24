@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.android.catapp-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.android.catapp-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.android.catapp-merged_res-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.android.catapp-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.android.catapp-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.android.catapp-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.android.catapp-merged_res-36:\\layout_item_pic.xml.flat",
+        "source": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.android.catapp-main-38:\\layout\\item_pic.xml"
+    },
+    {
+        "merged": "com.android.catapp-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.android.catapp-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

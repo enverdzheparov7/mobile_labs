@@ -1,0 +1,31 @@
+package com.android.catapp.viewmodel;
+
+import android.app.Application;
+
+import androidx.annotation.NonNull;
+import androidx.lifecycle.AndroidViewModel;
+import androidx.lifecycle.LiveData;
+
+import com.android.catapp.model.Model;
+import com.android.catapp.repository.Repository;
+
+import java.util.List;
+
+public class CatViewModel extends AndroidViewModel {
+    private Repository repository;
+    public LiveData<List<Model>> getAllCats;
+
+    public CatViewModel(@NonNull Application application) {
+        super(application);
+        repository = new Repository(application);
+        getAllCats = repository.getAllCats();
+    }
+
+    public void insert(List<Model> cats) {
+        repository.insert(cats);
+    }
+
+    public LiveData<List<Model>> getAllCats() {
+        return getAllCats;
+    }
+}
