@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/colorSurface">
+    <Button
+        android:id="@+id/buttonToggleTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Сменить тему (тёмная/светлая)" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🎬 Movie Tracker"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:textColor="#B71C1C"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Название фильма"
+        android:inputType="text"
+        android:background="@drawable/rounded_edittext"
+        android:padding="12dp"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/editTextGenre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Жанр (необязательно)"
+        android:inputType="text"
+        android:background="@drawable/rounded_edittext"
+        android:padding="12dp"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/buttonAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Добавить фильм в список"
+        android:backgroundTint="#C62828"
+        android:layout_marginBottom="4dp"/>
+
+    <!-- Шаг 2+3: явный Intent с ожиданием результата -->
+    <Button
+        android:id="@+id/buttonGoToSecond"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to the second activity"
+        android:backgroundTint="#E53935"
+        android:layout_marginBottom="4dp"/>
+
+    <!-- Шаг 4: неявный Intent — открыть IMDb в браузере -->
+    <Button
+        android:id="@+id/buttonOpenImdb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Открыть IMDb (неявный Intent)"
+        android:backgroundTint="#4527A0"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Область отображения результата, возвращённого из SecondActivity -->
+    <TextView
+        android:id="@+id/textViewLastReview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Последняя рецензия: (ожидание...)"
+        android:textSize="13sp"
+        android:textColor="#555555"
+        android:background="#FFFFFF"
+        android:padding="10dp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Мои фильмы:"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#C62828"
+        android:layout_marginBottom="6dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

@@ -1,0 +1,171 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-mergeDebugResources-2:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\MovieTracker_Lab6_src\\app\\src\\main\\res\\values-night\\strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "505",
+                        "endColumns": "49",
+                        "endOffsets": "550"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Энвер\\.gradle\\caches\\9.0-milestone-1\\transforms\\9aa8cf847ffc31a370f2b315299af42f\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "26,27,28,29,30,31,32,58",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1146,1216,1300,1384,1480,1582,1684,4539",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "1211,1295,1379,1475,1577,1679,1773,4623"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Энвер\\.gradle\\caches\\9.0-milestone-1\\transforms\\1bb61933beeea83dcace949a665309a5\\transformed\\material-1.11.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,59,60,61,62,63,64,65,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1778,1853,1964,2053,2154,2261,2368,2467,2574,2677,2765,2889,2991,3093,3209,3311,3425,3553,3669,3791,3927,4047,4181,4301,4413,4628,4745,4869,4999,5121,5259,5393,5509",
+                        "endColumns": "74,110,88,100,106,106,98,106,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1848,1959,2048,2149,2256,2363,2462,2569,2672,2760,2884,2986,3088,3204,3306,3420,3548,3664,3786,3922,4042,4176,4296,4408,4534,4740,4864,4994,5116,5254,5388,5504,5624"
+                    }
+                },
+                {
+                    "source": "C:\\MovieTracker_Lab6_src\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "774"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "555",
+                        "endLines": "25",
+                        "endColumns": "12",
+                        "endOffsets": "1141"
+                    }
+                },
+                {
+                    "source": "C:\\MovieTracker_Lab6_src\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "10,-1,-1,-1,-1,-1,-1,-1,11,-1",
+                        "startColumns": "4,-1,-1,-1,-1,-1,-1,-1,4,-1",
+                        "startOffsets": "427,-1,-1,-1,-1,-1,-1,-1,471,-1",
+                        "endColumns": "42,-1,-1,-1,-1,-1,-1,-1,44,-1",
+                        "endOffsets": "465,-1,-1,-1,-1,-1,-1,-1,511,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,140,187,234,281,328,373,418,463",
+                        "endColumns": "42,41,46,46,46,46,44,44,44,41",
+                        "endOffsets": "93,135,182,229,276,323,368,413,458,500"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.movietracker.app-mergeDebugResources-2:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\MovieTracker_Lab6_src\\app\\src\\main\\res\\values-night\\strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "417",
+                        "endColumns": "49",
+                        "endOffsets": "462"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Энвер\\.gradle\\caches\\9.0-milestone-1\\transforms\\9aa8cf847ffc31a370f2b315299af42f\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,56",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1058,1128,1212,1296,1392,1494,1596,4451",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "1123,1207,1291,1387,1489,1591,1685,4535"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Энвер\\.gradle\\caches\\9.0-milestone-1\\transforms\\1bb61933beeea83dcace949a665309a5\\transformed\\material-1.11.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,57,58,59,60,61,62,63,64",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1690,1765,1876,1965,2066,2173,2280,2379,2486,2589,2677,2801,2903,3005,3121,3223,3337,3465,3581,3703,3839,3959,4093,4213,4325,4540,4657,4781,4911,5033,5171,5305,5421",
+                        "endColumns": "74,110,88,100,106,106,98,106,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1760,1871,1960,2061,2168,2275,2374,2481,2584,2672,2796,2898,3000,3116,3218,3332,3460,3576,3698,3834,3954,4088,4208,4320,4446,4652,4776,4906,5028,5166,5300,5416,5536"
+                    }
+                },
+                {
+                    "source": "C:\\MovieTracker_Lab6_src\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "467",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1053"
+                    }
+                },
+                {
+                    "source": "C:\\MovieTracker_Lab6_src\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,144,191,238,285,330,375",
+                        "endColumns": "41,46,46,46,46,44,44,41",
+                        "endOffsets": "92,139,186,233,280,325,370,412"
+                    }
+                }
+            ]
+        }
+    ]
+}

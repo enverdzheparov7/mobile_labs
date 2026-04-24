@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-merged_res-4:\\layout_item_movie.xml.flat",
+        "source": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-main-6:\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-merged_res-4:\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-main-6:\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-merged_res-4:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\Энвер\\.gradle\\daemon\\9.0-milestone-1\\com.example.movietracker.app-main-6:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "com.example.movietracker.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.movietracker.app-main-6:/layout/activity_main.xml"
+    }
+]
