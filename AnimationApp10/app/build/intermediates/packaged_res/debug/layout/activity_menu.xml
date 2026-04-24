@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Animation Lab"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="24dp" />
+
+        <Button android:id="@+id/btnBasicAnim"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Часть II — Базовые анимации (ImageView)" />
+
+        <Button android:id="@+id/btnLottie"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Часть III — Lottie анимация" />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Самостоятельные задания:"
+            android:textStyle="bold" android:textSize="16sp"
+            android:layout_marginTop="16dp" android:layout_marginBottom="8dp"/>
+
+        <Button android:id="@+id/btnTask1"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Задание 1 — Activity Transition" />
+
+        <Button android:id="@+id/btnTask2"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Задание 2 — Анимированная кнопка" />
+
+        <Button android:id="@+id/btnTask3"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Задание 3 — RecyclerView анимация" />
+
+        <Button android:id="@+id/btnTask4"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Задание 4 — Progress Indicator (Lottie)" />
+
+        <Button android:id="@+id/btnTask5"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Задание 5 — Анимированная иконка (Lottie)" />
+
+        <Button android:id="@+id/btnTask6"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Задание 6 — Fragment Transition" />
+
+        <Button android:id="@+id/btnTask7"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:text="Задание 7 — Анимированная карточка" />
+
+    </LinearLayout>
+</ScrollView>

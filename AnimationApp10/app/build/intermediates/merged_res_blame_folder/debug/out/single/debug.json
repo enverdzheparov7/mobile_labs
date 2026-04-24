@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_fragment_first.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/drawable_btn_animated_background.xml.flat",
+        "source": "com.example.animationapp-main-35:/drawable/btn_animated_background.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_move_animation.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/move_animation.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_btn_press_scale_down.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/btn_press_scale_down.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/drawable_circle_background.xml.flat",
+        "source": "com.example.animationapp-main-35:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_fragment_transition.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_fragment_transition.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_slide_in_left.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_animated_card.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_animated_card.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_zoom_animation.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/zoom_animation.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_fade_animation.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/fade_animation.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_slide_in_right.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_blink_animation.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/blink_animation.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_card_enter.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/card_enter.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_animated_icon.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_animated_icon.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_menu.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_item_fade_in.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/item_fade_in.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_slide_animation.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/slide_animation.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_card_flip_out.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/card_flip_out.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_card_flip_in.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/card_flip_in.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_item_list.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/item_list.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_progress.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_progress.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_slide_out_right.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_fragment_second.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_animated_button.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_animated_button.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_slide_out_left.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_rotate_animation.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/rotate_animation.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_recycler.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_recycler.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_second.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/layout_activity_lottie.xml.flat",
+        "source": "com.example.animationapp-main-35:/layout/activity_lottie.xml"
+    },
+    {
+        "merged": "com.example.animationapp-merged_res-33:/anim_btn_press_scale_up.xml.flat",
+        "source": "com.example.animationapp-main-35:/anim/btn_press_scale_up.xml"
+    }
+]

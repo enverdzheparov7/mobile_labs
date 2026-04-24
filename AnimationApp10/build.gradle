@@ -1,0 +1,13 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:9.0.1'
+    }
+}
+
+plugins {
+    id 'com.android.application' version '9.0.1' apply false
+}
